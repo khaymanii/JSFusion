@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+.faq-list {
+    margin-top: 30px;
+}
+
+.faq-item {
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+.question {
+    color: #007BFF;
+}
+
+.answer {
+    color: #555;
+}
+
+.answer a {
+    color: #007BFF;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.answer a:hover {
+    text-decoration: underline;
+}

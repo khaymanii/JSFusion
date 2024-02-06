@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+}
+
+.color-container {
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;
+    background-color: #FFFFFF;
+}
+
+.color {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #007BFF;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 4px;
+}

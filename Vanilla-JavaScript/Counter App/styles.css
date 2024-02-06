@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+}
+
+.counter-container {
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;
+    background-color: #FFFFFF;
+}
+
+.count {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.btn-container {
+    margin-top: 20px;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 5px;
+    background-color: #007BFF;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 4px;
+}
