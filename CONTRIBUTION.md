@@ -55,7 +55,7 @@ Thank you for considering contributing to JSFusion! This repository is open to c
     * Resolve any merge conflicts if they occur.
 8. **Push your changes to your fork:**
     * Push your changes to your fork on GitHub:
-    
+
     ```bash
     git push origin <branch-name>
     ```
@@ -68,21 +68,22 @@ Thank you for considering contributing to JSFusion! This repository is open to c
 
 ## Pull Request Guidelines
 
-    * Ensure your code follows the project's coding standards.
-    * Be responsive to feedback and make necessary adjustments.
-    * If adding a new project, include relevant documentation in the README.md.
-    * If modifying an existing project, explain the reason behind the changes.
+* Ensure your code follows the project's coding standards.
+* Be responsive to feedback and make necessary adjustments.
+* If adding a new project, include relevant documentation in the README.md.
+* If modifying an existing project, explain the reason behind the changes.
 
 ## Code of Conduct
 
-    Review and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) during your contribution.
+* Review and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) during your contribution.
 
 ## Show Your Support
 
-    If you find JSFusion helpful or interesting, consider giving it a star! ⭐ Your support is greatly appreciated and helps us grow the community.
+* If you find JSFusion helpful or interesting, consider giving it a star! ⭐ Your support is greatly appreciated and helps us grow the community.
 
 **How to give the repository a star:**
-    * Navigate to the top of the JSFusion repository.
-    * Click on the "Star" button in the upper right corner of the page.
 
-    Thank you for being a part of JSFusion! 🚀
+* Navigate to the top of the JSFusion repository.
+* Click on the "Star" button in the upper right corner of the page.
+
+Thank you for being a part of JSFusion! 🚀
