@@ -9,9 +9,6 @@ Dive into projects organized by different JavaScript frameworks, each offering a
 - **Vanilla JavaScript**
   - Engage with foundational projects that leverage the pure power of JavaScript.
 
-- **TypeScript**
-  - Engage with foundational projects that leverage the pure power of TypeScript.
-
 - **React**
   - Immerse yourself in projects harnessing the declarative and efficient nature of the React library.
 
