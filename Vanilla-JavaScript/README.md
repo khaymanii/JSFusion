@@ -10,7 +10,7 @@ We welcome contributions from the community to improve and enhance our projects.
 
 - **How to contribute**
 
-Check the (`CONTRIBUTION.md`) to see how to make contribution to the this project.
+Check the (`CONTRIBUTION.md`) to see how to make contribution to the project.
 
 - **Code Review**
 
