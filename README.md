@@ -1,6 +1,6 @@
 # JSFusion - JavaScript Frameworks Repository
 
-Welcome to JSFusion, an open source vibrant community hub for discovering, learning, and contributing to a diverse array of beginner to intermediate friendly JavaScript projects across various frameworks. Whether you're just starting your coding journey or looking to expand your skills, JSFusion is here to provide a playground for exploration and collaboration.
+Welcome to JSFusion, a vibrant Open-Source community hub for discovering, learning, and contributing to a diverse array of beginner to intermediate friendly JavaScript projects across various frameworks. Whether you're just starting your coding journey or looking to expand your skills, JSFusion is here to provide a playground for exploration and collaboration.
 
 ## Explore JavaScript Frameworks
 
