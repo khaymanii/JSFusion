@@ -1,0 +1,12 @@
+.clock {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 20%;
+    font-size: 3rem;
+    color: #333;
+}
+
+.time {
+    display: inline-block;
+}
+
