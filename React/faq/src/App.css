@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.faq-list {
+  margin-top: 20px;
+}
+
+.faq {
+  border: 1px solid #007bff;
+  border-radius: 4px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.faq h2 {
+  margin-top: 0;
+}
+
+.faq p {
+  margin-bottom: 0;
+}
