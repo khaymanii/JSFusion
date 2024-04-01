@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.menu-items {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 20px;
+}
+
+.menu-item {
+  border: 1px solid #007bff;
+  border-radius: 4px;
+  padding: 20px;
+}
+
+.menu-item h2 {
+  margin-top: 0;
+}
+
+.menu-item p {
+  margin-bottom: 10px;
+}
+
+.price {
+  font-weight: bold;
+  color: #007bff;
+}
