@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import './App.css';
 
 function App() {
+  // use state to store the current time
   const [time, setTime] = useState(new Date());
   const [is12HourFormat, setIs12HourFormat] = useState(true);
 
