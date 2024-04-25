@@ -1,31 +1,28 @@
-body {
-  margin: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  background-color: #f0f0f0;
-}
-
-.container {
+.App {
   text-align: center;
+  margin-top: 100px;
 }
 
-.counter {
-  font-size: 48px;
+.time {
+  font-size: 3rem;
+  margin-bottom: 10px;
 }
 
-.buttons {
-  margin-top: 20px;
+.date {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
 }
 
-.btn {
+button {
   padding: 10px 20px;
-  font-size: 16px;
-  cursor: pointer;
-  background-color: #007BFF;
-  color: #FFFFFF;
+  background-color: #2ac2dd;
+  color: #fff;
   border: none;
-  border-radius: 4px;
-  margin: 0 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #359fa7;
 }
