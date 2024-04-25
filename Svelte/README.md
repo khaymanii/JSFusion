@@ -1,5 +1,8 @@
 # Svelte
 
+![1_G9fzmaoymDGy7scbkgpC7A](https://github.com/khaymanii/JSFusion/assets/116851212/70a17466-f20a-4770-8581-2aa6de42e303)
+
+
 ## Description
 
 This folder contains projects built using the Svelte framework. Svelte is a radical new approach to building user interfaces. These projects demonstrate the simplicity and efficiency of Svelte for creating dynamic web applications.
