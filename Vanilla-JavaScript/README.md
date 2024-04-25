@@ -1,5 +1,8 @@
 # Vanilla JavaScript
 
+![0__GmYapJePCg52cs2](https://github.com/khaymanii/JSFusion/assets/116851212/2150a42c-6464-488c-90b8-476dcfa6d232)
+
+
 ## Description
 
 This folder contains projects built using pure, vanilla JavaScript without any additional frameworks or libraries. These projects are perfect for beginners to understand the core concepts of JavaScript.
