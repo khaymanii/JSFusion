@@ -2,7 +2,6 @@
 
 ![React_Native_Logo](https://github.com/khaymanii/JSFusion/assets/116851212/1025099c-b7b2-4a6d-948b-a12a357f1207)
 
-
 ## Description
 
 This folder contains projects built using React, a Javascript library. These projects are perfect for beginners to understand the core concepts of JavaScript.

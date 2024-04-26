@@ -2,7 +2,6 @@
 
 ![why_next_js](https://github.com/khaymanii/JSFusion/assets/116851212/0262183d-04f0-4d63-ad21-77fb75b5be32)
 
-
 ## Description
 
 This folder contains projects built using the Next.js framework. Next.js is a React framework that enables server-side rendering and other advanced features for building web applications.

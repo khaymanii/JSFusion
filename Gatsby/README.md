@@ -2,7 +2,6 @@
 
 ![gatsby-logo](https://github.com/khaymanii/JSFusion/assets/116851212/8d65871f-59d6-41e7-8933-254170801f3a)
 
-
 ## Description
 
 This folder contains projects built using the Gatsby framework. Gatsby is a React-based framework that helps developers build blazing-fast websites and apps. These projects leverage the power of Gatsby for static site generation and more.
