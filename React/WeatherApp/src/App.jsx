@@ -8,7 +8,7 @@ function App() {
   const [place, setPlace] = useState('')
   const [weather, setWeather] = useState({})
 
-  const API_KEY = process.env.REACT_APP_API_KEY;
+  const API_KEY = "73fdedba8119f2391c6848c0167c70ee";
 
   const getWeather = async () => {
     
@@ -32,7 +32,7 @@ function App() {
           <div className='info'>
             <h2>{weather.name}</h2>
             <h3>{weather.main.temp} c</h3>
-            <h3>{weather.main.temp_min} c / {weather.main.temp_max} K</h3>
+            <h3>{weather.main.temp_min} C / {weather.main.temp_max} C</h3>
             <h3>{weather.weather[0].description}</h3>
           </div>
         )}
