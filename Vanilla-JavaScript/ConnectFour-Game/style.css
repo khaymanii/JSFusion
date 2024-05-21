@@ -1,0 +1,46 @@
+/* style.css */
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+#game-board {
+    display: grid;
+    grid-template-columns: repeat(7, 60px);
+    gap: 5px;
+    margin: 20px 0;
+}
+
+.cell {
+    width: 60px;
+    height: 60px;
+    background-color: #87ceeb;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.cell.red {
+    background-color: red;
+}
+
+.cell.yellow {
+    background-color: yellow;
+}
+
+#reset-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
