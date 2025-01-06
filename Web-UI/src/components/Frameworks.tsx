@@ -5,7 +5,7 @@ interface FrameworkCardProps {
 }
 
 const FrameworkCard: React.FC<FrameworkCardProps> = ({ image, name }) => (
-  <div className="lg:w-1/2 w-full bg-gray-200 rounded-md p-10 mb-4">
+  <div className="lg:w-1/2 w-full bg-gray-200 rounded-md p-10 mb-4 shadow-lg hover:shadow-xl hover:scale-105 transition-transform duration-300 ease-in-ou">
     <div className="flex items-center justify-center">
       <img src={image} alt={name} className="w-[200px] h-[200px] mb-2" />
     </div>
