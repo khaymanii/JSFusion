@@ -2,6 +2,9 @@
 
 Welcome to JSFusion, a vibrant Open-Source community hub for discovering, learning, and contributing to a diverse array of beginner to intermediate friendly JavaScript projects across various frameworks. Whether you're just starting your coding journey or looking to expand your skills, JSFusion is here to provide a playground for exploration and collaboration.
 
+![Screenshot 2025-01-06 233604](https://github.com/user-attachments/assets/bd67852e-96b9-4754-86c2-723c7bb53d28)
+
+
 ## Explore JavaScript Frameworks
 
 Dive into projects organized by different JavaScript frameworks, each offering a unique perspective and set of tools:
