@@ -5,7 +5,7 @@ const Hero = () => {
         {/* Left Content */}
         <div className="text-center">
           <h1 className="text-4xl font-bold text-gray-800 sm:text-5xl mb-2">
-            Welcome to <span className="text-customPurple">JSFusion</span>
+            Welcome to JSFusion
           </h1>
           <p className="text-gray-800 text-xl text-center font-semibold">
             Javascript Open-Source Playground
@@ -18,7 +18,7 @@ const Hero = () => {
           <div className="mt-6">
             <a
               href="https://github.com/khaymanii/jsfusion"
-              className="ml-4 px-6 py-3 bg-gray-600 text-white font-medium rounded-lg shadow-md hover:bg-gray-800 transition duration-300"
+              className="ml-4 px-6 py-3 bg-gray-600 text-white font-medium rounded-lg shadow-md hover:bg-gray-800 transition duration-300 cursor-pointer"
             >
               Start Contributing
             </a>
