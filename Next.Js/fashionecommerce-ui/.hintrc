@@ -1,0 +1,23 @@
+{
+  "extends": [
+    "development"
+  ],
+  "browserslist": [
+    "defaults",
+    "not ie 11",
+    "not and_chr <= 125",
+    "not chrome <= 126",
+    "not edge <= 125",
+    "not opera <= 110",
+    "not samsung <= 25"
+  ],
+  "hints": {
+    "axe/forms": [
+      "default",
+      {
+        "select-name": "off",
+        "label": "off"
+      }
+    ]
+  }
+}
